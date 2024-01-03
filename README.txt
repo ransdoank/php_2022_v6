@@ -8,8 +8,8 @@ Thank you and good luck!
 
 Code to refactor
 =================
-1) app/Http/Controllers/BookingController.php
-2) app/Repository/BookingRepository.php
+1) [√] app/Http/Controllers/BookingController.php
+2) [√] app/Repository/BookingRepository.php 
 
 Code to write tests (optional)
 =====================
@@ -42,4 +42,7 @@ OR
 
 Thank you!
 
-
+Update code refactor
+=================
+1) [√] app/Http/Controllers/Controller.php
+2) [√] app/Repository/BaseRepository.php
