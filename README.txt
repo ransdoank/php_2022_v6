@@ -13,8 +13,8 @@ Code to refactor
 
 Code to write tests (optional)
 =====================
-3) App/Helpers/TeHelper.php method willExpireAt
-4) App/Repository/UserRepository.php, method createOrUpdate
+3) [√] App/Helpers/TeHelper.php method willExpireAt
+4) [√] App/Repository/UserRepository.php, method createOrUpdate
 
 
 ----------------------------
